@@ -1,0 +1,65 @@
+
+===== Domino's CLI Login Menu =====
+
+1. Login
+2. Register
+3. Exit
+Enter your choice(1-3): 2
+
+🔐 Sign Up
+choose a  username: johndoe
+choose a password: ********
+✅ Sign up successful. Please log in.
+
+===== Domino's CLI Login Menu =====
+1. Log In
+2. Sign Up
+3. Exit
+Enter choice (1-3):1
+
+🔓 Log In
+Username: johndoe
+Password: ********
+✅ Welcome back, johdoe!
+
+📱 Welcome, johndoe
+1. View Menu
+2. Order Pizza
+3. View Cart
+4. Place Order
+5. Logout
+Enter choice (1-5):2
+
+🍕 Domino's Pizza Menu:
+- Margherita: ₹150
+- Farmhouse: ₹200
+- Peppy Paneer: ₹220
+- Veg Extravaganza: ₹250
+- Chicken Dominator: ₹280
+Enter pizza name: Peppy Paneer
+
+Add toppings? (y/n): y
+
+🧀 Available Toppings:
+- Extra Cheese: ₹30
+- Mushrooms: ₹25
+- Paneer: ₹40
+- Chicken: ₹50
+Enter topping (or 'done' to finish): Mushrooms
+Enter topping (or 'done' to finish): done
+✅ Pizza added to cart.
+
+📱 Welcome, sai
+1. View Menu
+2. Order Pizza
+3. View Cart
+4. Place Order
+5. Logout
+Enter choice (1-5):4
+
+✅ Placing order...
+
+🛒 Your Cart:
+1. Peppy Paneer (Mushrooms) - ₹245
+Total: ₹245
+🎉 Order placed successfully! Thank you for ordering from Domino's!
